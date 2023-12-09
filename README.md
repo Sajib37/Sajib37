@@ -1,6 +1,7 @@
+# 
 [![An old rock in the desert](/images/Banner1.png "Shiprock, New Mexico by Beau Rogers")](/images/Banner1.png)
 
-###
+
 # about Me
 
 
