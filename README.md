@@ -34,7 +34,8 @@
 
 <div>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sajib37&theme=bear)
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=&theme=dark" alt="GitHub Streak" /></a>
+
 </div>
 
 <div>
