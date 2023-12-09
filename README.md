@@ -10,4 +10,17 @@
 
 </div>
 
+# Instant Overview
+<div>
+
+<!-- - 🔭 I’m currently working on [work on](sdfgdg) -->
+
+- 🌱 I’m currently learning **next.js**
+
+- 💬 Ask me about **react ,javascript,mongoDB**
+
+- 📫 How to reach me **sajibhasan9811@gmail.com**
+
+</div>
+
 
