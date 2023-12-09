@@ -1,1 +1,1 @@
-[![An old rock in the desert](/assets/images/shiprock.jpg "Shiprock, New Mexico by Beau Rogers")](/images/Banner.png)
+[![An old rock in the desert](/images/Banner.png "Shiprock, New Mexico by Beau Rogers")](/images/Banner.png)
