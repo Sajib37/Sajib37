@@ -26,7 +26,15 @@
 # Statistics
 <div align="center" style="border: 1px solid #ddd; padding: 10px;">
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sajib37&theme=blue_green)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sajib37&theme=bear)
+
+</div>
+
+<div>
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sajib37&theme=bear)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sajib37&theme=bear)
 
 </div>
 
