@@ -57,6 +57,9 @@
 - Users can request to the admin for contact Info.
 - Admin can manage the total users and total biodata.
 
+### Language and Tools:
+[![My Skills](https://skillicons.dev/icons?i=html,tailwind,react,nodejs,expressjs,firebase,mongodb&perline=7)](https://skillicons.dev)
+
 
 
 
