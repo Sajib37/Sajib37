@@ -30,7 +30,7 @@
 
 </div>
 
-<div align="center" style="display: flex; justify-content: space-around;">
+<div align="center" style="display: flex; flex-direction: row; justify-content: space-around;">
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sajib37&theme=bear)
 
