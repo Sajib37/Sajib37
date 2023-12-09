@@ -24,7 +24,7 @@
 </div>
 
 # Statistics
-<div>
+<div align="center">
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sajib37&theme=blue_green)
 
