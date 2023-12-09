@@ -32,9 +32,15 @@
 
 <div align="center" style="display: flex; flex-direction: row; justify-content: space-around;">
 
+<div>
+
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sajib37&theme=bear)
+</div>
+
+<div>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sajib37&theme=bear)
+</div>
 
 </div>
 
