@@ -1,4 +1,4 @@
-[![An old rock in the desert](/images/Banner1.png "Shiprock, New Mexico by Beau Rogers")](/images/Banner1.png)
+[![An old rock in the desert](/images/Banner1.jpg "Shiprock, New Mexico by Beau Rogers")](/images/Banner1.jpg)
 
 # About Me :
 <p align="justify">I'm Experienced MERN Stack Developer with a focus on frontend excellence. Proficient in HTML, CSS, and JavaScript, specializing in React.js for building engaging and responsive user interfaces. While primarily dedicated to frontend development, I bring a comprehensive understanding of the MERN stack, including MongoDB, Express.js, and Node.js. </p>
