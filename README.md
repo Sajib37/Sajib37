@@ -35,11 +35,14 @@
 <div align="center" style="display: flex; flex-direction: row; justify-content: space-around;">
 
 <p>
-    <img src=" ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sajib37&theme=bear) ">
-    <img src=" ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sajib37&theme=bear) ">
 
-    
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sajib37&theme=bear)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sajib37&theme=bear)
+
 </p>
+
+</div>
 
 </div>
 
